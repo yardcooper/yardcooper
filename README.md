@@ -2,9 +2,9 @@
 
 ## Info
 
-Hi there, I'm Richard a full.
+Hi there, I'm Richard a full stack engineer.
 
-<details>
+
   <summary><b>Where to find me</b></summary>
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Char-Al)
